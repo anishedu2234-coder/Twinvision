@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Vision Assist AI",
+  "description": "An accessible AI-powered scene describer for the visually impaired, featuring camera integration, scene analysis, and high-quality text-to-speech output.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
