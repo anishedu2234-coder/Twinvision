@@ -37,58 +37,71 @@ By combining camera input with generative AI, the app translates the visual worl
 
 ---
 
-✨ Key Features
+## ✨ Key Features
 
-🔍 Scene Understanding
+<div align="center">
 
-Real-time camera capture
+<table>
+<tr>
+<td width="300" align="center">
 
-AI-generated contextual descriptions
+<h3>🔍 Scene Understanding</h3>
+<p>
+Real-time camera analysis powered by AI to describe surroundings and activities instantly.
+</p>
 
-Helps users understand surroundings instantly
+</td>
+<td width="300" align="center">
 
+<h3>📄 Document Reader</h3>
+<p>
+Scan and convert printed text into clear voice output for easy understanding.
+</p>
 
-📄 Document Reader
+</td>
+</tr>
 
-Scan printed text using camera
+<tr>
+<td width="300" align="center">
 
-Converts text into speech output
+<h3>🌐 Bilingual Support</h3>
+<p>
+Supports both English and Hindi with seamless switching for wider accessibility.
+</p>
 
+</td>
+<td width="300" align="center">
 
-🌐 Bilingual Support
+<h3>🧠 Smart History</h3>
+<p>
+Stores last 50 scans with timestamps for quick review anytime.
+</p>
 
-English (en-US)
+</td>
+</tr>
 
-Hindi (hi-IN)
+<tr>
+<td width="300" align="center">
 
-Instant switching
+<h3>📳 Tactile Feedback</h3>
+<p>
+Device vibration ensures intuitive interaction for visually impaired users.
+</p>
 
+</td>
+<td width="300" align="center">
 
-🧠 Smart History
+<h3>♿ Accessibility First</h3>
+<p>
+High-contrast UI, voice feedback, and assistive-first design approach.
+</p>
 
-Stores last 50 scans
+</td>
+</tr>
 
-Includes timestamp and mode
+</table>
 
-Persistent via localStorage
-
-
-📳 Tactile Feedback
-
-Device vibration for interaction cues
-
-Improves usability for blind users
-
-
-♿ Accessibility First
-
-High-contrast UI
-
-Voice feedback for interactions
-
-Designed for assistive usage
-
-
+</div>
 
 ---
 
