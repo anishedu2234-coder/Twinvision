@@ -1,10 +1,10 @@
 👁️ Vision Assist AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Accessibility-First-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Gemini-powered-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922632/IMG_20260423_11010550_aujvtj.jpg" />
+  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922632/IMG_20260423_09410145_ggpqv3.jpg" />
+  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922632/IMG_20260423_11011935_prz2qr.jpg" />
+  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922633/IMG_20260423_09410982_r3dhrb.jpg" />
 </p><p align="center">
   <b>Making the world more accessible using AI 🌍</b>
 </p>
@@ -20,9 +20,8 @@
 🎥 Demo Preview
 
 <p align="center">
-  <img src="/demo.gif" alt="Vision Assist AI Demo" width="600" />
-</p>> 📌 Replace demo.gif with your actual recorded demo (recommended: 20–30 sec showing both features)
-
+  <video src="https://res.cloudinary.com/dcyyg32oj/video/upload/v1776922653/VID_20260423_093932_2_ozwcws.mp4" alt="Vision Assist AI Demo" width="600" />
+</p>
 
 
 
