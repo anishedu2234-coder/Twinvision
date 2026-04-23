@@ -122,17 +122,79 @@ Runtime	Node.js
 
 ---
 
-⚙️ Architecture & Workflow
+## ⚙️ Architecture & Workflow
 
-flowchart TD
-A[User Opens App] --> B[Camera Activated]
-B --> C[Capture Frame]
-C --> D[Send to Gemini API]
-D --> E[AI Generates Description]
-E --> F[Display Output]
-F --> G[Text-to-Speech]
-E --> H[Save to History]
-H --> I[LocalStorage]
+<div align="center">
+
+<table>
+<tr>
+<td width="250" align="center">
+
+<h3>📱 User Interaction</h3>
+<p>
+User opens the app and navigates to the Scan feature to begin interaction.
+</p>
+
+</td>
+<td width="250" align="center">
+
+<h3>📷 Camera Capture</h3>
+<p>
+The application activates the device camera and captures a frame on user trigger.
+</p>
+
+</td>
+<td width="250" align="center">
+
+<h3>🧠 AI Processing</h3>
+<p>
+Captured image is sent to the Gemini API for context-aware scene or text analysis.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="250" align="center">
+
+<h3>📝 Response Generation</h3>
+<p>
+AI returns a descriptive output explaining the scene or extracted document text.
+</p>
+
+</td>
+<td width="250" align="center">
+
+<h3>🔊 Voice Output</h3>
+<p>
+The generated response is converted into speech for accessibility.
+</p>
+
+</td>
+<td width="250" align="center">
+
+<h3>💾 Data Storage</h3>
+<p>
+Scan results are saved in localStorage for future reference and history tracking.
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔄 Workflow Summary
+
+<div align="center">
+
+<p>
+📱 User → 📷 Capture → 🧠 AI Analysis → 📝 Description → 🔊 Audio Output → 💾 Save History
+</p>
+
+</div>
 
 
 ---
