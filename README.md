@@ -10,9 +10,17 @@
 ## 🎥 Demo Preview
 
 <p align="center">
+  <b>👇 Click the image below to watch the demo video</b>
+</p>
+
+<p align="center">
   <a href="https://res.cloudinary.com/dcyyg32oj/video/upload/v1776922653/VID_20260423_093932_2_ozwcws.mp4">
     <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776924217/IMG_20260423_113239_y06qao.png" width="600"/>
   </a>
+</p>
+
+<p align="center">
+  <i>🎬 Opens full demo video in a new tab</i>
 </p>
 
 
