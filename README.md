@@ -1,28 +1,20 @@
 👁️ Vision Assist AI
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922632/IMG_20260423_11010550_aujvtj.jpg" />
-  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922632/IMG_20260423_09410145_ggpqv3.jpg" />
-  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922632/IMG_20260423_11011935_prz2qr.jpg" />
-  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922633/IMG_20260423_09410982_r3dhrb.jpg" />
-</p><p align="center">
-  <b>Making the world more accessible using AI 🌍</b>
-</p>
----
+-------------------------------
 
 🌐 Live Demo
 
 🔗 https://twinvision23-ga34.vercel.app/
 
-
 ---
 
-🎥 Demo Preview
+## 🎥 Demo Preview
 
 <p align="center">
-  <video src="https://res.cloudinary.com/dcyyg32oj/video/upload/v1776922653/VID_20260423_093932_2_ozwcws.mp4" alt="Vision Assist AI Demo" width="600" />
+  <video width="600" controls autoplay loop muted>
+    <source src="https://res.cloudinary.com/dcyyg32oj/video/upload/v1776922653/VID_20260423_093932_2_ozwcws.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
-
 
 
 ---
@@ -275,12 +267,13 @@ VITE_GEMINI_API_KEY=your_api_key_here
 📸 Screenshots
 
 <p align="center">
-  <img src="/screenshots/scene.png" width="250" />
-  <img src="/screenshots/document.png" width="250" />
-  <img src="/screenshots/ui.png" width="250" />
-</p>> 📌 Add real screenshots in /screenshots folder
-
-
+  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922632/IMG_20260423_11010550_aujvtj.jpg" />
+  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922632/IMG_20260423_09410145_ggpqv3.jpg" />
+  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922632/IMG_20260423_11011935_prz2qr.jpg" />
+  <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776922633/IMG_20260423_09410982_r3dhrb.jpg" />
+</p><p align="center">
+  <b>Making the world more accessible using AI 🌍</b>
+</p>
 
 
 ---
