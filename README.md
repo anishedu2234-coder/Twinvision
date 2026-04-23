@@ -1,4 +1,4 @@
-👁️ Vision Assist AI
+👁️ Twin Vision AI
 -------------------------------
 
 🌐 Live Demo
@@ -10,10 +10,9 @@
 ## 🎥 Demo Preview
 
 <p align="center">
-  <video width="600" controls autoplay loop muted>
-    <source src="https://res.cloudinary.com/dcyyg32oj/video/upload/v1776922653/VID_20260423_093932_2_ozwcws.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://res.cloudinary.com/dcyyg32oj/video/upload/v1776922653/VID_20260423_093932_2_ozwcws.mp4">
+    <img src="https://res.cloudinary.com/dcyyg32oj/image/upload/v1776924217/IMG_20260423_113239_y06qao.png" width="600"/>
+  </a>
 </p>
 
 
