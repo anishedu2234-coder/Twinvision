@@ -249,7 +249,7 @@ Option to clear history
 
 📦 Installation
 
-git clone https://github.com/your-username/vision-assist-ai.git
+git clone https://github.com/anishedu2234-coder/Twinvision.git
 cd vision-assist-ai
 npm install
 
